@@ -1,0 +1,1 @@
+Here are some (an?) assignment for my graduate Data Structures course. It's more theory based than my undergrad course with lots more hand-written assignments.
